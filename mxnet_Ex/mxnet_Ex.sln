@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "mxnet_Ex", "mxnet_Ex\mxnet_Ex.pyproj", "{D9B36F30-CBBC-43C5-BCEC-AD3A344AA091}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9B36F30-CBBC-43C5-BCEC-AD3A344AA091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9B36F30-CBBC-43C5-BCEC-AD3A344AA091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B8A3604-B5D0-46C5-A71B-710C9141EDD6}
+	EndGlobalSection
+EndGlobal
