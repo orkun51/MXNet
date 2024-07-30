@@ -1,2 +1,2 @@
 # MXNet
-CS502
+Neural Networks
